@@ -1,8 +1,8 @@
 name: PYMpublicidad
 favicon: null
-layout_spectrum: 0.5386568871326745
-typography_spectrum: 0.898698367876932
-title: 'P&M Publicidad SAS · Agencia Creativa'
+layout_spectrum: 0.75178
+typography_spectrum: 0.3124
+title: P&M Publicidad SAS · Agencia Creativa
 cta:
   domain: null
   bucket: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#2a2a2d'
+    - '#f5f5f5'
+    - '#f27104'
+    - '#909192'
+    - '#9c5a23'
   brandStrength: 0.6532749643083662
   lightness: 0.7871313199866563
   saturation: 0.03687039064243436
